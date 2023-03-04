@@ -79,7 +79,7 @@ footer div {
 }
 
 footer img {
-    width: 100%;
+    width: 50%;
     margin: 30px 0 15px 0;
 }
 
@@ -89,12 +89,12 @@ footer img {
     line-height: 1.5;
 }
 
-.contact a {
+.contact a, .profiles{
     text-decoration: none;
     text-decoration: underline var(--tertiary-color);
     margin-bottom: 20px;
 }
 
-.profiles {
+/* .profiles {
     padding-bottom: 15px;
-}
+} */
